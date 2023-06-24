@@ -1,0 +1,5 @@
+This directory is used to store scan data and other files created by the
+LiteSpeed Web Cache Manger plugin for cPanel.
+
+If you are not longer using the LiteSpeed Web Cache Manger plugin for cPanel,
+this directory and it's files can be safely removed.

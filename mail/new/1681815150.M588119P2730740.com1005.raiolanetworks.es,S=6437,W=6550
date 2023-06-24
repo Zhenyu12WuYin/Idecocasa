@@ -1,0 +1,113 @@
+Return-Path: <noreply-dmarc-support@google.com>
+Delivered-To: kbgjgazo@com1005.raiolanetworks.es
+Received: from com1005.raiolanetworks.es
+	by com1005.raiolanetworks.es with LMTP
+	id kOtrIm52PmT0qikAKu+OTA
+	(envelope-from <noreply-dmarc-support@google.com>)
+	for <kbgjgazo@com1005.raiolanetworks.es>; Tue, 18 Apr 2023 12:52:30 +0200
+Return-path: <noreply-dmarc-support@google.com>
+Envelope-to: dmarc@idecocasa.com
+Delivery-date: Tue, 18 Apr 2023 12:52:30 +0200
+Received: from mail-qt1-x849.google.com ([2607:f8b0:4864:20::849]:51839)
+	by com1005.raiolanetworks.es with esmtps  (TLS1.3) tls TLS_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <noreply-dmarc-support@google.com>)
+	id 1poiwn-00BfIp-0f
+	for dmarc@idecocasa.com;
+	Tue, 18 Apr 2023 12:52:30 +0200
+Received: by mail-qt1-x849.google.com with SMTP id w18-20020ac87e92000000b003edb19cf5e7so5663317qtj.18
+        for <dmarc@idecocasa.com>; Tue, 18 Apr 2023 03:52:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20221208; t=1681815107; x=1684407107;
+        h=content-transfer-encoding:content-disposition:to:from:subject
+         :message-id:date:mime-version:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=z+iRg0uVOHJkTxXy47UJCzfA2lyJcIWcM/x/A1UgYzc=;
+        b=RNx1h+/75aa0bbIHX0wShjuHILsJLRxeJHMltld1tEfMAr7SHnreFSnap2ANcYWlLP
+         QdQRGzWWpsEVlBqrMHBfbZgM+xo+qm1dhKvdynu8+ewmKuUg/26WpSTHi6s/A01eviga
+         jp/7LN15KltmgrkyUDKRGqyJ5MLfTucRmL6NEXUNfHaRd3E2gSRfFDqco8sNXVvtyDK9
+         WiD8bvfEOQvvM7aDArewNXsfvx9QtH0ZINxzvM2q5+PbBA3oTKI7T6xEU8W5iDkV8bsb
+         /rDm6rHatRl6mkyDKHWcidpZkEowkC4gVXbC3Zu0Wkq8YDt2H5/EaoEgne/bQOnZZpEM
+         U1/g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1681815107; x=1684407107;
+        h=content-transfer-encoding:content-disposition:to:from:subject
+         :message-id:date:mime-version:x-gm-message-state:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=z+iRg0uVOHJkTxXy47UJCzfA2lyJcIWcM/x/A1UgYzc=;
+        b=j0m72hLJh0dCsbTVhFj94wGAXXOSsVl+K/kdt6pky2KvwbjXxjTagFV5GAetE+eP4c
+         40LoKnC4MHF/tI3jQs4lEMGYKI4EWZr5e1rb8d79Cyhn85iWDzydwu7kNV8pdZP6B5fV
+         BsoDZys/SuHWQtqxffk/fSmj2/UALkw0hEXwQ6tI2PGbIm98uA+XFmljSaeu8N2INbKx
+         LEoiw/Z7deED+Iq7F2Lds2Fw30qwmD9gRLhDTNngdX2clttO9BYj1u2V3KpO5Sse/Oa9
+         D5t254A2DCTOoaqHUEDAH+K29C7mtSdW/5Ba3qGYPZfopOjEGuz8TDafNOY9IKo83HMl
+         97Ug==
+X-Gm-Message-State: AAQBX9cZWrzuNXXVFqbPXuNxA6XdsB8p3m740OAcZTOTqx7MltJUaJyV
+	zUjwYdUZ63RnJsYqQCW7FA==
+X-Google-Smtp-Source: AKy350bojZN4lSAS11LFpfa1psBLXuemFzOFxP95GYwiEiGVvU1fCUSn8JV+KIX3JyfZvs+Y1+2duxZ92J62kg==
+MIME-Version: 1.0
+X-Received: by 2002:a05:620a:1534:b0:74d:e887:167 with SMTP id
+ n20-20020a05620a153400b0074de8870167mr1459360qkk.10.1681815107556; Tue, 18
+ Apr 2023 03:51:47 -0700 (PDT)
+Date: Mon, 17 Apr 2023 16:59:59 -0700
+Message-ID: <4259419345154692846@google.com>
+Subject: Report domain: idecocasa.com Submitter: google.com Report-ID: 4259419345154692846
+From: noreply-dmarc-support@google.com
+To: dmarc@idecocasa.com
+Content-Type: application/zip; 
+	name="google.com!idecocasa.com!1681689600!1681775999.zip"
+Content-Disposition: attachment; 
+	filename="google.com!idecocasa.com!1681689600!1681775999.zip"
+Content-Transfer-Encoding: base64
+X-Spam-Status: No, score=-10.4
+X-Spam-Score: -103
+X-Spam-Bar: ----------
+X-Ham-Report: Spam detection software, running on the system "com1005.raiolanetworks.es",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  
+ Content analysis details:   (-10.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: idecocasa.com]
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+ -0.0 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  3.5 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  0.0 TVD_SPACE_RATIO        No description available.
+ -0.1 R_DMARC_PASS           Passed DMARC checks
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: NO
+
+UEsDBAoAAAAIAO1SklYyjVM+CQIAAMQEAAAyAAAAZ29vZ2xlLmNvbSFpZGVjb2Nhc2EuY29tITE2
+ODE2ODk2MDAhMTY4MTc3NTk5OS54bWyFVMGOmzAQve9XRLkHBwpsqLzenvoF7Rk5ZiBWwHZts9n9
++w6xISS7VSUknDczb948D6Gv70O/eQPrpFYv2zTZbzeghG6k6l62v3/93B22m1f2RFuA5sjFmT1t
+NtSC0dbXA3jecM8nDFFtu1rxAVindddDIvRAyQKGHBi47JnSyNB/7JqBW7Fzo5nofqzLQl6sefeW
+10Irz4WvpWo1O3lv3HdCYmlyKyWccOUuYEmWl2Vx2CPX5/pAHMeQDcuzosrT6ltepEVeVtkhLym5
+hUM6jgq15aqLwyB0hE4qlpYHfKpyj80CMsdBNdfo83NRVRVKUTMZuWdbuq09pUb3UnzUZjz20p1g
+EaLRHcVkA0IL7niwLKIhhTdnOTBLSThE0Jn2ik3vABn2Z+SowksFlJiIunvYzbgRnqXTlNPhqvor
+heir0HYWa/VlscPp0QqopWFpXiXZPkuqQ5LuC2yxROZcoUeF3SgJhxmODeGN9yM62MyByRbpjHbS
+4ybjhk3C18gqb3LEcOcwYTEnzt2yFhdvGrldWpKve+KVzaNRvAr0qpX4HS1lJ+AN2Lq1eni8qnUo
+cn1ioHz0p9qCG3t/I30Q/P9NiIs+scSZ44/V1NCD8NqyBlqOIZx+RhYL1n3pypybBuyMq1Eklkvd
+cwX+ou3ZJeD+rSdc0r2elfW4qA8WTMlhtSi5/SH9BVBLAQIKAAoAAAAIAO1SklYyjVM+CQIAAMQE
+AAAyAAAAAAAAAAAAAAAAAAAAAABnb29nbGUuY29tIWlkZWNvY2FzYS5jb20hMTY4MTY4OTYwMCEx
+NjgxNzc1OTk5LnhtbFBLBQYAAAAAAQABAGAAAABZAgAAAAA=

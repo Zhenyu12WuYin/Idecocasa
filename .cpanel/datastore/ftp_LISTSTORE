@@ -1,0 +1,1 @@
+{"data":[{"homedir":"/home/kbgjgazo","type":"main","user":"kbgjgazo"},{"user":"kbgjgazo_logs","type":"logaccess","homedir":"/etc/apache2/logs/domlogs/kbgjgazo"}],"error":0,"exit_code":0,"timeout":0,"action":"fetch","mode":"simple","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","status":1,"version":"2.4"}

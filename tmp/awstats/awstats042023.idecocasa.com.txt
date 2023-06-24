@@ -1,0 +1,458 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/kbgjgazo/tmp/awstats/awstats.idecocasa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 7309                
+POS_DAY 8899                
+POS_DOMAIN 3272                
+POS_LOGIN 3621                
+POS_ROBOT 3776                
+POS_WORMS 3979                
+POS_EMAILSENDER 4110                
+POS_EMAILRECEIVER 4253                
+POS_SESSION 9328                
+POS_SIDER 9535                
+POS_FILETYPES 4388                
+POS_DOWNLOADS 4667                
+POS_OS 4732                
+POS_BROWSER 4917                
+POS_SCREENSIZE 5238                
+POS_UNKNOWNREFERER 5312                
+POS_UNKNOWNREFERERBROWSER 5805                
+POS_ORIGIN 6098                
+POS_SEREFERRALS 6236                
+POS_PAGEREFS 6380                
+POS_SEARCHWORDS 6528                
+POS_KEYWORDS 6680                
+POS_MISC 2352                
+POS_ERRORS 6739                
+POS_CLUSTER 3477                
+POS_SIDER_404 6864                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501032430 11 1740 10301780266170
+FirstTime 20230415225133
+LastTime 20230430230040
+LastUpdate 20230501224115 11 0 10 0 0
+TotalVisits 103                 
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 0 15 16 0
+1 14 14 0 10 15 0
+2 15 15 0 12 13 0
+3 6 6 0 6 7 0
+4 50 116 1080107 10 11 0
+5 12 12 534 13 14 0
+6 15 15 0 17 21 0
+7 5 5 0 7 7 683
+8 10 10 0 9 9 0
+9 10 10 0 8 11 707
+10 13 23 96688 24 26 0
+11 10 10 0 17 18 0
+12 16 16 0 22 22 0
+13 5 5 0 5 5 0
+14 10 10 0 14 15 0
+15 6 8 116 4 7 0
+16 8 8 0 12 12 0
+17 9 10 970 7 10 0
+18 29 29 0 43 58 0
+19 8 8 0 15 15 0
+20 4 4 0 8 8 0
+21 6 6 0 8 9 0
+22 43 76 797248 16 18 49580
+23 254 642 16631682 82 85 638529
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ip 316 316 331408
+fr 145 400 10187496
+ru 94 243 6606929
+ua 8 8 75046
+us 6 94 1382932
+in 1 5 23360
+es 0 1 0
+ro 0 1 58
+se 0 1 58
+de 0 1 58
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 5 167267 20230415232116 0
+crawl 1 52769 20230415230847 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+svg 4 9338 0 0
+woff2 2 154320 0 0
+js 350 5525579 0 0
+css 80 505835 0 0
+html 29 329057 0 0
+xml 1 970 0 0
+gif 6 52860 0 0
+Unknown 38 296463 0 0
+txt 4 174 0 0
+png 18 1467122 0 0
+php 500 8376768 0 0
+jpg 38 1888859 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ads.txt 4 0 174
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linux 29 3
+macosx15 24 23
+android 1 0
+win7 40 0
+Unknown 303 303
+macosx11 1 1
+win10 670 239
+macosx10 1 1
+linuxubuntu 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome39.0.2171.95 1 1
+opera84.0.4316.14 1 0
+chrome112.0.5615.87 14 2
+firefox79.0 24 23
+chrome79.0.3945.79 26 0
+chrome112.0.5615.49 5 1
+chrome83.0.4103.61 40 0
+Unknown 299 299
+mozilla 4 4
+chrome111.0.5563.64 10 0
+firefox48.0 1 1
+chrome112.0.0.0 644 239
+safari16.4.1 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20230415230901
+fasthttp 20230424174112
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20230415230942
+Cpanel-HTTP-Client/1.0 20230415230208
+WordPress/6.2;_http://idecocasa.com 20230415232112
+WordPress/6.2;_https://idecocasa.com 20230430230040
+Installatron_Plugin/9.1.58/257 20230430041913
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Cpanel-HTTP-Client/1.0 20230415230208
+Installatron_Plugin/9.1.58/257 20230430041913
+fasthttp 20230424174112
+WordPress/6.2;_https://idecocasa.com 20230430230040
+WordPress/6.2;_http://idecocasa.com 20230415232112
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 344 424
+From1 0 0
+From2 0 0
+From3 0 0
+From4 226 646
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 25 18094
+400 2 42
+404 45 449206
+301 332 2121
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/cart.json 42 -
+/wp-admin/admin-ajax.php 1 http://idecocasa.com/wp-admin/customize.php
+/indexing-test/ 1 -
+/2023/04/15/hello-world/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+2a12:d280:100:15:: 313 313 331147 20230430230040
+92.189.250.61 145 400 10187496 20230415232120
+185.239.37.234 94 243 6606929 20230415232249
+178.211.133.15 8 8 75046 20230415225141
+44.227.127.2 2 14 474657 20230415231951
+2600:3000:1511:200::1e 1 1 87 20230415230851
+170.64.142.5 1 1 534 20230417055345
+192.0.87.54 1 1 0 20230415230847
+116.202.133.57 1 5 23360 20230415225142
+2600:1f14:804:fd01:f203:5c57:19f4:6f4e 1 1 87 20230415230851
+2600:1f16:269:da00:b41a:d3bf:3ecd:2407 1 1 87 20230415230901
+8.218.137.209 1 1 970 20230424174112
+67.205.156.138 1 1 0 20230415230942
+205.169.39.120 0 2 2701 
+205.169.39.88 0 2 4289 
+205.169.39.116 0 2 26870 
+205.169.39.135 0 2 3570 
+205.169.39.160 0 3 7180 
+205.169.39.235 0 1 8687 
+205.169.39.242 0 3 90886 
+65.154.226.167 0 7 82436 
+205.169.39.179 0 2 1821 
+65.154.226.171 0 3 14252 
+205.169.39.228 0 2 677 
+205.169.39.127 0 4 16669 
+205.169.39.170 0 2 10348 
+205.169.39.246 0 2 677 
+205.169.39.237 0 2 23500 
+31.221.250.217 0 1 0 
+79.116.114.63 0 1 58 
+78.46.106.221 0 1 58 
+205.169.39.91 0 3 374143 
+205.169.39.98 0 3 10885 
+93.158.91.234 0 1 58 
+205.169.39.166 0 2 17915 
+205.169.39.241 0 2 314 
+205.169.39.99 0 1 5557 
+205.169.39.217 0 2 730 
+205.169.39.253 0 4 15999 
+205.169.39.245 0 2 9363 
+205.169.39.143 0 1 7814 
+205.169.39.181 0 2 15052 
+205.169.39.255 0 1 10867 
+205.169.39.243 0 2 65298 
+205.169.39.247 0 1 8112 
+205.169.39.185 0 1 7963 
+205.169.39.251 0 1 3978 
+205.169.39.151 0 2 14406 
+205.169.39.222 0 1 8244 
+205.169.39.240 0 4 10043 
+205.169.39.191 0 2 25525 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20230415 274 694 17391093 11
+20230416 13 13 9342 7
+20230417 55 55 18501 11
+20230418 44 120 925280 8
+20230419 23 23 37018 8
+20230420 22 22 18509 7
+20230421 9 9 18509 4
+20230422 21 21 18509 7
+20230423 24 24 17981 8
+20230424 16 16 19581 5
+20230425 14 14 18603 6
+20230426 7 7 19473 3
+20230427 11 12 37594 4
+20230428 15 17 19386 5
+20230429 11 12 19012 4
+20230430 11 11 18954 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 20
+5mn-15mn 8
+30s-2mn 1
+0s-30s 58
+15mn-30mn 8
+1h+ 7
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 100
+/wp-cron.php 266 0 75 89
+/wp-admin/admin-ajax.php 92 4267974 0 1
+/ 13 190463 5 5
+/wp-admin/load-scripts.php 12 484020 0 0
+/wp-admin/plugins.php 11 198330 0 0
+/wp-admin/load-styles.php 11 1425305 0 0
+/wp-admin/index.php 10 294348 0 0
+/wp-admin/edit.php 8 160146 0 0
+/wp-login.php 8 20143 1 0
+/index.php/wp-json/reallysimplessl/v1/do_action/dismiss_modal 7 168 0 1
+/wp-admin/plugin-install.php 5 96492 0 0
+/index.php/feed/ 4 760 0 0
+/index.php/comments/feed/ 4 777 0 0
+/wp-admin/options-general.php 4 86319 0 0
+/wp-admin/upload.php 4 112247 0 0
+/wp-admin/themes.php 4 77369 0 0
+/wp-admin/profile.php 4 68854 0 0
+/wp-admin/ 3 84554 0 0
+/index.php/wp-json/wp/v2/users/me 3 6652 0 0
+/index.php/2023/04/15/hello-world/ 3 41148 0 0
+/wp-admin/user-new.php 3 36865 0 0
+/.well-known/acme-challenge/bCb9bpnDds61oGBprhmLujwxcWC83DdHo1JnnOa437s 3 261 3 3
+/wp-admin/users.php 3 38884 0 0
+/wp-admin/install.php 3 11946 1 1
+/wp-admin/post.php 3 196558 0 0
+/deleteme.wpdouex1.php 1 16331 0 0
+/index.php/wp-json/reallysimplessl/v1/do_action/get_modal_status 1 42 0 0
+/deleteme.chaedpjk.php 1 2939 1 0
+/index.php/wp-json/ 1 474 0 0
+/deleteme.cha0bjnd.php 1 2939 1 0
+/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff2 2 154320 0 1
+/index.php/wp-json/wp/v2/block-patterns/patterns 1 220354 0 0
+/index.php/wp-json/wp/v2/widget-types 1 6573 0 0
+/deleteme.wpa3q7t2.php 1 2780 0 0
+/deleteme.wpbsn3g9.php 1 15672 0 0
+/index.php/wp-json/reallysimplessl/v1/tests/otherpluginsdata 1 973 0 0
+/deleteme.chaqepym.php 1 2939 1 0
+/deleteme.wp2sg5bj.php 1 15028 0 0
+/deleteme.wp1f4zic.php 1 76 0 0
+/deleteme.chanmsi5.php 1 2939 0 0
+/deleteme.chaduddj.php 1 2939 1 0
+/.well-known/acme-challenge/CV01KYRNH3V1SV_2E6Z6VTJXAE57FLFW 1 64 0 0
+/deleteme.wpclcxif.php 1 15385 0 0
+/deleteme.wpv7frno.php 1 15570 0 0
+/sitemap.xml 1 970 1 1
+/index.php/wp-json/wp/v2/taxonomies 1 6857 0 0
+/index.php/wp-json/wp/v2/blocks 1 2 0 0
+/index.php/wp-json/wp/v2/block-patterns/categories 1 2101 0 0
+/index.php/wp-json/wp/v2/themes 1 4129 0 0
+/deleteme.chayxyih.php 1 2939 1 0
+/deleteme.chafzxly.php 1 2939 1 0
+/wp-admin/update.php 1 11396 0 0
+/index.php/wp-json/reallysimplessl/v1/do_action/ssltest_get 1 37 0 0
+/deleteme.wpwe9ii5.php 1 3914 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 142411 0 0
+/deleteme.chat1xpf.php 1 2939 1 0
+/deleteme.wpkrrlp9.php 1 16331 0 0
+/.well-known/acme-challenge/BPAVULBWCG34OUGPMA7FJN0X7THB3K10 1 64 0 0
+/.well-known/acme-challenge/8VXW0QQ0QDTEMO_H4K0R4AI-8B3ZH76V 1 64 0 0
+/deleteme.wppyaqnz.php 1 15042 0 0
+/index.php/sample-page/ 1 10881 0 0
+/index.php/wp-json/reallysimplessl/v1/tests/progressData 1 3833 0 0
+/deleteme.wpkkwydy.php 1 15664 0 0
+/deleteme.chact1zr.php 1 2939 1 0
+/index.php/wp-json/reallysimplessl/v1/fields/get 1 31123 0 0
+/deleteme.wpoc2kge.php 1 6403 0 0
+/.well-known/acme-challenge/3BIKY6M1QTVF_NTJRWL5DB0G8PJC_AQG 1 64 0 0
+/.well-known/acme-challenge/43U1YNJ1Y07DVJ7-M20BW1X2X6034_K7 1 64 0 0
+/index.php/wp-json/reallysimplessl/v1/tests/activate_ssl 1 63 0 0
+/deleteme.wpxjbn5p.php 1 15570 0 0
+/deleteme.wp1sankz.php 1 15570 0 0
+/deleteme.cha5g9ik.php 1 2939 1 0
+/deleteme.cham0xvk.php 1 2939 1 0
+/deleteme.wpz2quit.php 1 16534 0 0
+/index.php/wp-json/wp/v2/pages/7 1 10253 0 0
+/wp-admin/tools.php 1 9875 0 0
+/wp-content/uploads/code-execution.php 1 31 0 0
+/.well-known/acme-challenge/OGFSP9X2RGIDGUX-847NFS9IZCD0_1AG 1 64 0 0
+/deleteme.chablsor.php 1 2939 1 0
+/deleteme.chafs0as.php 1 2939 1 0
+/deleteme.wp2j3nbe.php 1 15570 0 0
+/index.php/wp-json/wp/v2/users 1 61 0 0
+/wp-admin/theme-install.php 2 34322 0 0
+/index.php/wp-json/reallysimplessl/v1/onboarding 1 2341 0 0
+/.well-known/acme-challenge/YCWB8DRAB_AUZ6OZYZDDWIWOPXFK6DCV 1 64 0 0
+/deleteme.wpysk0nd.php 1 16015 0 0
+/.well-known/acme-challenge/5XT-TT2P55HH82W9VTG-SMDOKJX_6HYH 1 64 0 0
+/wp-admin/upgrade.php 1 1156 0 0
+/deleteme.chalnrhj.php 1 2939 1 0
+/wp-admin/customize.php 2 238752 0 0
+/deleteme.wprmxv3c.php 1 16015 0 0
+/deleteme.wps9svob.php 1 15570 0 1
+/.well-known/acme-challenge/NIRSKZIF88FQHYLUTL4-GOEN_9YI6VFC 1 64 0 0
+/.well-known/acme-challenge/4BONQ562WTMI_7FWIGV2V2VGAJG5M__S 1 64 0 0
+/deleteme.chaibdxf.php 1 2939 1 0
+/wp-admin/edit-comments.php 2 45513 0 0
+/deleteme.wp6foglu.php 1 15570 0 0
+/deleteme.chajonip.php 1 2939 1 0
+/deleteme.chabsyoy.php 1 2939 1 0
+/deleteme.chaau54p.php 1 2939 1 0
+END_SIDER

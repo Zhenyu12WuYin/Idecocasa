@@ -1,0 +1,266 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/kbgjgazo/tmp/awstats/awstats.idecocasa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2684                
+POS_VISITOR 6061                
+POS_DAY 6223                
+POS_DOMAIN 3287                
+POS_LOGIN 3514                
+POS_ROBOT 3669                
+POS_WORMS 3801                
+POS_EMAILSENDER 3932                
+POS_EMAILRECEIVER 4075                
+POS_SESSION 6415                
+POS_SIDER 6588                
+POS_FILETYPES 4210                
+POS_DOWNLOADS 4292                
+POS_OS 4340                
+POS_BROWSER 4450                
+POS_SCREENSIZE 4554                
+POS_UNKNOWNREFERER 4628                
+POS_UNKNOWNREFERERBROWSER 4813                
+POS_ORIGIN 4993                
+POS_SEREFERRALS 5125                
+POS_PAGEREFS 5269                
+POS_SEARCHWORDS 5417                
+POS_KEYWORDS 5569                
+POS_MISC 2347                
+POS_ERRORS 5628                
+POS_CLUSTER 3370                
+POS_SIDER_404 5752                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601040357 5 748 7904569162290
+FirstTime 20230501032430
+LastTime 20230506165720
+LastUpdate 20230601203546 5 0 4 0 0
+TotalVisits 32                  
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 21 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 0 16 24 14847
+1 0 0 0 10 12 8484
+2 4 4 0 6 12 4242
+3 4 4 0 10 12 4949
+4 19 19 125092 34 36 24745
+5 0 0 0 5 6 4242
+6 2 2 0 7 10 6363
+7 3 3 0 3 4 707
+8 4 4 0 8 9 4218
+9 4 4 0 12 18 9898
+10 3 3 21887 9 9 6339
+11 2 2 0 33 38 18356
+12 2 2 0 9 10 6363
+13 2 2 0 5 6 1390
+14 4 4 0 8 9 3535
+15 3 3 0 16 20 12019
+16 3 3 23829 3 3 2121
+17 0 0 0 16 18 11312
+18 0 0 0 8 10 6363
+19 0 0 0 16 16 11312
+20 1 1 0 13 16 7777
+21 2 2 0 9 11 4242
+22 8 8 20572 59 62 8484
+23 8 8 0 36 46 25444
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 83 83 191380
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+php 83 191380 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx15 9 9
+Unknown 73 73
+androidnougat 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+firefox79.0 9 9
+chrome60.0.3112.107 1 1
+Unknown 73 73
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.2;_https://idecocasa.com 20230506154311
+Installatron_Plugin/9.1.58/257 20230506165720
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Installatron_Plugin/9.1.58/257 20230506165720
+WordPress/6.2;_https://idecocasa.com 20230506154311
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 82 82
+From1 1 1
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+503 5 6345
+301 378 181699
+302 3 1366
+403 5 3495
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+2a12:d280:100:15:: 82 82 191380 20230506165720
+2a01:4f9:c011:b4f9::1 1 1 0 20230502083639
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20230501 12 12 38896 4
+20230502 17 17 20572 7
+20230503 15 15 21211 5
+20230504 8 8 21211 4
+20230505 12 12 43774 4
+20230506 19 19 45716 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 5
+30s-2mn 3
+1h+ 1
+0s-30s 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/wp-cron.php 63 0 24 30
+/deleteme.wp2vvv3f.php 1 17633 0 0
+/deleteme.wpdkduxk.php 1 17951 0 0
+/deleteme.cha3va8z.php 1 2939 1 0
+/deleteme.chalkzqh.php 1 2939 1 0
+/deleteme.wpfwihbr.php 1 18948 0 0
+/deleteme.chaoscfk.php 1 2939 0 1
+/wp-content/index.php 1 0 1 1
+/deleteme.chaeooom.php 1 2939 1 0
+/deleteme.wp0blpyt.php 1 18948 0 0
+/deleteme.chazm7fc.php 1 2939 0 0
+/deleteme.wpskmqub.php 1 18948 0 0
+/deleteme.chaytf7y.php 1 2939 1 0
+/deleteme.wp2s3myp.php 1 17633 0 0
+/deleteme.chadvzpx.php 1 2939 1 0
+/deleteme.wplw1rka.php 1 15385 0 0
+/deleteme.chafl4mo.php 1 2939 1 0
+/deleteme.chafaiwm.php 1 2939 1 0
+/deleteme.chavwohg.php 1 2939 0 0
+/deleteme.wp0bkpwt.php 1 18272 0 0
+/deleteme.wp73ygaz.php 1 18272 0 0
+END_SIDER

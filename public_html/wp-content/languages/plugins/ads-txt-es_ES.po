@@ -1,0 +1,165 @@
+# Translation of Plugins - Ads.txt Manager - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Ads.txt Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-15 09:41:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Ads.txt Manager - Stable (latest release)\n"
+
+#: inc/post-type.php:62
+msgctxt "post type singular name"
+msgid "App-ads.txt"
+msgstr "App-ads.txt"
+
+#: inc/post-type.php:61
+msgctxt "post type general name"
+msgid "App-ads.txt"
+msgstr "App-ads.txt"
+
+#: inc/admin.php:452
+msgid "App-ads.txt saved"
+msgstr "App-ads.txt guardado"
+
+#: inc/admin.php:213
+msgid "App-ads.txt content"
+msgstr "Contenido de App-ads.txt"
+
+#: inc/admin.php:212
+msgid "Manage App-ads.txt"
+msgstr "Gestionar App-ads.txt"
+
+#: inc/admin.php:210
+msgid "An app-ads.txt file on the server will take precedence over any content entered here. You will need to rename or remove the existing app-ads.txt file before you will be able to see any changes you make on this screen."
+msgstr "Un archivo app-ads.txt en el servidor tendrá prioridad sobre cualquier contenido introducido aquí. Tendrás que cambiar el nombre o eliminar el archivo app-ads.txt existente antes de que puedas ver los cambios que realices en esta pantalla."
+
+#: inc/admin.php:209
+msgid "Existing App-ads.txt file found"
+msgstr "Encontrado un archivo App-ads.txt existente"
+
+#: inc/admin.php:165 inc/admin.php:166
+msgid "App-ads.txt"
+msgstr "App-ads.txt"
+
+#: inc/admin.php:43 inc/admin.php:211
+msgid "Your app-ads.txt contains the following issues:"
+msgstr "Tu archivo app-ads.txt contiene los siguientes problemas:"
+
+#: inc/admin.php:466
+msgid "Revision restored"
+msgstr "Revisión restaurada"
+
+#: inc/admin.php:450
+msgid "Ads.txt saved"
+msgstr "Ads.txt guardado"
+
+#. translators: %s: Alphanumeric TAG-ID
+#: inc/admin.php:437
+msgid "%s does not appear to be a valid TAG-ID"
+msgstr "%s no parece ser un una TAG-ID válida"
+
+#. translators: %s: Exchange domain
+#: inc/admin.php:435
+msgid "%s does not appear to be a valid exchange domain"
+msgstr "%s no parece ser un dominio de intercambio válido"
+
+#. translators: %s: Subdomain
+#: inc/admin.php:433
+msgid "%s does not appear to be a valid subdomain"
+msgstr "%s no parece ser un subdominio válido"
+
+#: inc/admin.php:431
+msgid "Third field should be RESELLER or DIRECT"
+msgstr "El tercer campo debe ser RESELLER o DIRECT"
+
+#: inc/admin.php:430
+msgid "Invalid record"
+msgstr "Registro no válido"
+
+#: inc/admin.php:429
+msgid "Unrecognized variable"
+msgstr "Variable no reconocida"
+
+#: inc/admin.php:405
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#: inc/admin.php:376
+msgid "Update anyway, even though it may adversely affect your ads?"
+msgstr "¿Actualizar de todos modos, aunque pueda afectar negativamente a tus anuncios?"
+
+#: inc/admin.php:329
+msgid "Browse revisions"
+msgstr "Explorar las revisiones"
+
+#: inc/admin.php:327
+msgid "Browse"
+msgstr "Explorar"
+
+#. translators: Post revisions heading. 1: The number of available revisions
+#: inc/admin.php:320
+msgid "Revisions: <span class=\"adstxt-revision-count\">%s</span>"
+msgstr "Revisiones: <span class=\"adstxt-revision-count\">%s</span>"
+
+#: inc/admin.php:187
+msgid "Ads.txt content"
+msgstr "Contenido de Ads.txt"
+
+#: inc/admin.php:186
+msgid "Manage Ads.txt"
+msgstr "Gestionar Ads.txt"
+
+#. translators: Error message output. 1: Line number, 2: Error message
+#: inc/admin.php:285 inc/admin.php:416
+msgid "Line %1$s: %2$s"
+msgstr "Línea %1$s: %2$s"
+
+#: inc/admin.php:184
+msgid "An ads.txt file on the server will take precedence over any content entered here. You will need to rename or remove the existing ads.txt file before you will be able to see any changes you make on this screen."
+msgstr "Un archivo ads.txt en el servidor tendrá prioridad sobre cualquier contenido introducido aquí. Tendrás que cambiar el nombre o eliminar el archivo ads.txt existente antes de que puedas ver los cambios que realices en esta pantalla."
+
+#: inc/admin.php:183
+msgid "Existing Ads.txt file found"
+msgstr "Encontrado un archivo Ads.txt existente"
+
+#: inc/admin.php:157 inc/admin.php:158
+msgid "Ads.txt"
+msgstr "Ads.txt"
+
+#: inc/admin.php:39
+msgid "An unknown error occurred."
+msgstr "Ha ocurrido un error desconocido."
+
+#: inc/admin.php:38 inc/admin.php:185
+msgid "Your Ads.txt contains the following issues:"
+msgstr "Tu archivo Ads.txt contiene los siguientes problemas:"
+
+#: inc/post-type.php:49
+msgctxt "post type singular name"
+msgid "Ads.txt"
+msgstr "Ads.txt"
+
+#: inc/post-type.php:48
+msgctxt "post type general name"
+msgid "Ads.txt"
+msgstr "Ads.txt"
+
+#. Author URI of the plugin
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#. Author of the plugin
+msgid "10up"
+msgstr "10up"
+
+#. Description of the plugin
+msgid "Create, manage, and validate your Ads.txt from within WordPress, just like any other content asset. Requires PHP 7.4+ and WordPress 5.7+."
+msgstr "Crea, gestiona y valida tu archivo Ads.txt desde WordPress, como cualquier otro recurso de contenido. Necesita PHP 7.4 o superior y WordPress 5.7 o superior."
+
+#. Plugin Name of the plugin
+msgid "Ads.txt Manager"
+msgstr "Gestor de Ads.txt"

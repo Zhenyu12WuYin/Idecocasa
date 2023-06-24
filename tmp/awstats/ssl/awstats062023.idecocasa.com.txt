@@ -1,0 +1,884 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/kbgjgazo/tmp/awstats/ssl/awstats.idecocasa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2693                
+POS_VISITOR 18627               
+POS_DAY 24606               
+POS_DOMAIN 3613                
+POS_LOGIN 4273                
+POS_ROBOT 4428                
+POS_WORMS 4968                
+POS_EMAILSENDER 5099                
+POS_EMAILRECEIVER 5242                
+POS_SESSION 25056               
+POS_SIDER 25267               
+POS_FILETYPES 5377                
+POS_DOWNLOADS 5793                
+POS_OS 5906                
+POS_BROWSER 6263                
+POS_SCREENSIZE 7129                
+POS_UNKNOWNREFERER 7203                
+POS_UNKNOWNREFERERBROWSER 7719                
+POS_ORIGIN 8168                
+POS_SEREFERRALS 8313                
+POS_PAGEREFS 8509                
+POS_SEARCHWORDS 8657                
+POS_KEYWORDS 8809                
+POS_MISC 2357                
+POS_ERRORS 8868                
+POS_CLUSTER 4129                
+POS_SIDER_404 9087                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230613125008 95 21316 24265749863561
+FirstTime 20230601013028
+LastTime 20230613125008
+LastUpdate 20230613200050 95 0 95 0 0
+TotalVisits 325                 
+TotalUnique 125                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 155                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 345 523 10884945 16 27 1220442
+1 45 51 794788 88 129 3036912
+2 25 25 116375 13 20 279861
+3 44 44 350695 20 25 337437
+4 73 110 1212411 18 24 325557
+5 38 49 362821 21 24 127155
+6 37 37 578773 19 24 196365
+7 52 52 611764 28 40 552783
+8 30 36 176622 22 31 888816
+9 15 15 37129 7 26 317161
+10 943 1455 78604741 140 206 8009431
+11 1062 1649 56545180 67 86 2233132
+12 653 2563 248001909 24 29 286441
+13 251 783 15359158 23 50 418450
+14 140 175 5881747 18 23 592807
+15 409 1982 210033385 30 45 1077193
+16 48 53 809399 34 39 532962
+17 476 2930 225327332 41 47 493931
+18 2682 7459 518833560 101 113 2244595
+19 2031 4151 221686319 162 209 2183533
+20 4843 10170 525266521 212 226 3620532
+21 1912 5264 494443648 200 223 1967389
+22 1560 3402 98257141 101 116 2346369
+23 1766 4140 252928370 96 113 2759761
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+us 6958 17671 1037958170
+fr 6160 8994 383852051
+ip 5984 8942 13724587
+es 291 1245 20785922
+ua 29 30 1597625
+nl 25 1106 180363918
+de 7 1709 248435813
+it 5 875 121448068
+gb 5 1009 134966804
+ru 4 449 79195301
+ec 3 47 1029477
+ro 3 17 346233
+se 2 3 39934
+gr 1 1 476
+hn 1 1 38726
+au 1 1 476
+jp 1 1 38550
+cl 0 527 81552901
+no 0 2531 363940122
+in 0 371 60242240
+ee 0 549 78718200
+tw 0 409 65234161
+ca 0 627 93195582
+sv 0 1 64704
+py 0 1 281942
+gt 0 1 52750
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bingbot/ 260 4693641 20230613104619 14
+Googlebot/ 192 4594375 20230613125007 12
+YandexBot/ 65 2079567 20230610052007 3
+bot[\s_+:,\.\;\/\\-] 30 710456 20230613042004 8
+Go\-http\-client/ 18 23220 20230613012730 0
+Googlebot\-Image/ 16 1406426 20230611231735 0
+[\s_+:,\.\;\/\\-]bot 10 328171 20230613044833 0
+no_user_agent 6 690945 20230608191153 0
+unknown 5 767 20230611223557 5
+yandex 1 5570 20230604010133 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+xml 7 4447 0 0
+svg 122 209223 0 0
+js 5722 118864670 0 0
+ttf 32 676924 0 0
+txt 2 8054 0 0
+php 15934 354465889 0 0
+jpg 9174 1745737157 0 0
+html 2091 69115508 0 0
+jpeg 2077 438234258 0 0
+Unknown 1373 26115976 0 0
+webp 5073 102202001 0 0
+woff 14 244712 0 0
+gif 106 8276949 0 0
+json 1 0 0 0
+woff2 28 2129408 0 0
+png 2857 85269485 0 0
+css 2505 15550072 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/sitemap.xml.gz 10 0 4516
+/ads.txt 9 0 522
+/license.txt 1 0 7996
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx6 1 1
+androidpie 1 0
+androidnougat 22 4
+ios_iphone 2 0
+android 1 0
+winxp 5 2
+macosx9 41 6
+androidmarshmallow 28 16
+macosx14 276 28
+win8.1 1 1
+linux 290 55
+Unknown 22619 6145
+win7 7 7
+macosx7 1 1
+unix 1 1
+winlong 11 11
+win10 22416 12784
+macosx15 1342 412
+androidoreo 4 2
+android10 49 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+chrome108.0.0.0 4 4
+chrome113.0.5672.126 14 2
+chrome94.0.4590.2 31 8
+chrome114.0.5735.60 2 0
+firefox108.0 3 2
+chrome21.0.1180.82 1 1
+chrome78.0.3882.0 196 0
+chrome79.0 3 3
+netscape5.0 4 4
+chrome114.0.5735.57 1 0
+chrome35.0.1916.47 1 1
+firefox65.0 1 1
+chrome74.0.3729.169 1 1
+chrome56.0.2924.76 7 7
+chrome95.0.4638.54 1 1
+chrome34.0.1847.116 11 11
+chrome78.0.3904.108 3 3
+msie6.0 2 2
+safari 1 0
+chrome79.0.3945.130 5 5
+firefox11.0 3 0
+chrome83.0.4103.97 45 45
+chrome112.0.0.0 43 4
+chrome113.0.0.0 9235 4266
+safari14.1.2 1 0
+Unknown 22615 6141
+chrome84.0.4147.125 6 6
+chrome 11 11
+firefox79.0 14 14
+chrome81.0.4044.138 3 2
+firefox50.0 1 1
+safari7.0.3 40 5
+chrome114.0.0.0 14524 8892
+chrome114.0.5735.90 3 3
+chrome97.0.4692.99 276 28
+chrome104.0.0.0 1 1
+chrome100.0.4896.60 1 1
+chrome91.0.4472.114 1 1
+firefox45.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WordPress.com;_https://idecocasa.com 20230601013029
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20230601052236
+python-requests/2.27.1 20230611202706
+Installatron_Plugin/9.1.59/280 20230613040610
+Python/3.7_aiohttp/3.8.1 20230610174004
+QUIC.cloud_image_optimization 20230611210444
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20230612080942
+WordPress/6.2.2;_https://idecocasa.com 20230613125008
+undici 20230613065827
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Python/3.7_aiohttp/3.8.1 20230610174004
+Installatron_Plugin/9.1.59/280 20230613040610
+python-requests/2.27.1 20230611202706
+WordPress.com;_https://idecocasa.com 20230601013029
+undici 20230613065827
+WordPress/6.2.2;_https://idecocasa.com 20230613125008
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20230612080942
+QUIC.cloud_image_optimization 20230611210444
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6331 9434
+From1 1 1
+From2 5 12
+From3 0 0
+From4 13143 37671
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google_com 3 3
+www_google_com 2 8
+www_google_es 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+404 538 20495128
+201 65 398090
+400 3 174
+206 6 62521
+302 110 2732
+503 231 291625
+412 86 0
+301 109 205291
+500 82 40635
+409 1 1246
+403 18 18435
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 124
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-7587367-1-1024x683 1 -
+/guia-completa-de-decoracion-de-interiores-consejos-y-tendencias-actuales/ 1 -
+/wp-content/uploads/2023/05/beazy-wruFvA5KP_E-unsplash-1-1020x1024 1 -
+/wp-content/litespeed/js/23380aae44ddc486ccb8f9dc5f79c076.js 1 -
+/wp-content/uploads/2023/06/Usos-del-hilo-dental-en-la-cocina-jpg 1 -
+/wp-content/uploads/2023/05/sven-brandsma-dSEvi19rV-8-unsplash-577x1024 1 -
+/wp-content/uploads/2023/06/naomi-hebert-MP0bgaS_d1c-unsplash-300x199 1 -
+/wp-content/uploads/2023/05/derick-mckinney-rah5oKpjMSY-unsplash-scaled.jpg 2 https://idecocasa.com/exterior/casa/
+/wp-content/uploads/2023/06/pexels-pixabay-373548-1024x670 1 -
+/wp-content/uploads/2023/06/chad-montano-eeqbbemH9-c-unsplash-847x1024 1 -
+/wp-content/uploads/2023/06/dinh-ng-2Cc0KnE3lCs-unsplash-683x1024 1 -
+/wp-content/uploads/2023/05/oven-60292-1-1024x768 1 -
+/wp-content/uploads/2023/06/zulian-firmansyah-3AvEi1EoIyM-unsplash-1024x1024 1 -
+/wp-json/google-site-kit/v1/modules/analytics-4/data/container-lookup 1 https://idecocasa.com/wp-admin/admin.php
+/wp-content/uploads/2023/05/emily-powers-0ygpwfU_scQ-unsplash-2-1024x683 1 -
+/wp-content/litespeed/js/e9291d8e84c97fe6ccdbf13ce1256e53.js 1 -
+/wp-sale.js 2 -
+/wp-content/uploads/2023/06/pexels-curtis-adams-10486145-300x200 1 -
+/wp-content/uploads/2023/05/10-recetas-con-Monsieur-Cuisine-el-robot-de-cocina-de-Lidl-Hogarmania-1024x576 1 -
+/wp-content/uploads/elementor/css/post-280.css 1 -
+/wp-content/uploads/2023/05/benjamin-voros-X63FTIZFbZo-unsplash-225x300 1 -
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-7587367-300x200 1 -
+/wp-content/uploads/2023/05/descarga-1-2-jpeg 1 -
+/wp-content/litespeed/js/9ff91752c75353e1159bd40a5e6c2693.js 1 -
+/decoradoras-de-interior-consejos-tendencias-y-servicios-para-transformar-tu-hogar/ 1 -
+/wp-content/uploads/2023/04/background-blank-empty-62693.jpg 1 https://idecocasa.com/wp-content/uploads/elementor/css/post-280.css
+/old/ 1 -
+/wp-content/uploads/2023/05/pexels-adrienne-andersen-2374959-1-scaled.webp 4 https://idecocasa.com/interior/dormitorio/
+/wp/ 1 -
+/humans.txt 1 http://idecocasa.com/humans.txt
+/wp-content/uploads/2023/05/pexels-jean-van-der-meulen-1454806-1-scaled.webp 4 https://idecocasa.com/interior/dormitorio/
+/wp-content/litespeed/js/fc17c61d4c188de09211bd9461378036.js 1 -
+/wp-content/uploads/2023/05/priscilla-du-preez-_qhamM5iRoQ-unsplash-683x1024 1 -
+/wp-content/uploads/2023/04/steven-ungermann-xsWOJGv_2eI-unsplash-1-scaled.jpg 3 https://idecocasa.com/interior/
+/wp-content/plugins/formidable/css/formidableforms.css 1 -
+/wp-content/uploads/2023/05/Como-almacenar-o-guardar-tu-ropa-al-vacio-con-truco-casero-y-facil-jpg 1 -
+/wp-content/uploads/2023/05/charlesdeluvio-RfIm_uMMoxI-unsplash-683x1024 1 -
+/wp-content/uploads/uag-plugin/assets/2000/uag-css-1870-1686342522.css 1 https://idecocasa.com/
+/wp-content/litespeed/js/8da206280587af3e8ec6307228f06128.js 1 -
+/wp-content/uploads/2023/04/pexels-max-rahubovskiy-7061662-scaled.jpg 10 https://idecocasa.com/wp-content/uploads/elementor/css/post-493.css
+/wp-content/litespeed/js/f3ce7f14c18506c76bd5231d8282865a.js 1 -
+/wp-content/litespeed/js/d8f3f3a60edba03eb1904db15843db9e.js 1 -
+/wp-content/plugins/download-monitor/assets/css/frontend.css 1 -
+/wordpress/ 1 -
+/wp-content/uploads/2023/05/Como-cocer-la-pasta-de-manera-eficaz-con-Thermomix%C2%AE-jpg 1 -
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-7587367-1-scaled.webp 1 -
+/wp-content/themes/seotheme/mar.php 1 -
+/wp-content/uploads/2023/05/francesca-tosolini-XcVm8mn7NUM-unsplash-4-scaled.jpg 2 https://idecocasa.com/exterior/casa/
+/misc/ajax.js 4 -
+/wp-content/uploads/2023/06/claudio-schwarz-X7Yd4BVtpD4-unsplash-1024x683 1 -
+/wp-content/uploads/2023/05/m34013842602_1-jpg-e1685826486446 1 -
+/wp-content/uploads/2023/06/febrian-zakaria-sjvU0THccQA-unsplash-683x1024 1 -
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-7018392-248x300 1 -
+/wp-content/uploads/2023/06/joyful-bkoLKHHVx8E-unsplash-768x1024 1 -
+/wp-content/litespeed/js/f52343220679d63f058b38fda776f2fb.js 1 -
+/wp-content/uploads/2023/06/pexels-ivan-samkov-7671235-1-scaled 1 -
+/interiores/dormitorio/armario-esquinero-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar/ 3 -
+/wp-content/uploads/2023/04/pexels-alex-bargain-1472999-scaled.jpg 3 https://idecocasa.com/wp-admin/post.php
+/wp-content/litespeed/js/db4c4ce00c282b16a675a4090247b139.js 1 -
+/wp-content/uploads/2023/05/zac-gudakov-faBWQt9i7dg-unsplash-scaled.jpg 2 https://idecocasa.com/exterior/casa/
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-8142059-1-683x1024 1 -
+/wp-content/uploads/2023/05/emily-powers-0ygpwfU_scQ-unsplash-2-300x200 1 -
+/wp-content/litespeed/js/87b09140bc8ba8a39fe67ce53762ddd1.js 1 -
+/wp-content/uploads/2023/06/pexels-pixabay-279648-1-1024x1010 1 -
+/indexing-test/ 1 -
+/wp-content/uploads/2023/05/micah-carlson-qN-T-pY17Vc-unsplash-scaled.jpg 2 https://idecocasa.com/exterior/casa/
+/wp-content/uploads/2023/06/minh-pham-7pCFUybP_P8-unsplash-683x1024 1 -
+/wp-content/uploads/2023/05/pexels-marta-6043981-1024x1024 2 -
+/wp-content/uploads/2023/06/vojtech-bruzek-Yrxr3bsPdS0-unsplash-1024x683 1 -
+/wp-content/uploads/2023/05/jennifer-burk-ECXB0YAZ_zU-unsplash-683x1024 1 -
+/wp-content/uploads/2023/04/steven-ungermann-pj3BqHOJylY-unsplash-1-scaled.jpg 3 https://idecocasa.com/interior/
+/wp-content/uploads/2023/05/julian-gentilezza-ctUWE7BUEzE-unsplash-scaled.jpg 2 https://idecocasa.com/exterior/casa/
+/ideas-para-un-jardin-decorado-de-ensueno-consejos-y-trucos-de-expertos-en-jardineria/ 2 https://idecocasa.com/wp-admin/admin.php
+/cart.json 349 -
+/wp-content/uploads/2023/05/ceramic-hob-g2f01b798d_1280-300x196 1 -
+/wp-content/uploads/2023/05/jason-briscoe-GliaHAJ3_5A-unsplash-300x180 1 -
+/wp-content/uploads/2023/06/sergei-sushchik-9g25RSRJncU-unsplash-1-768x1024 1 -
+/wp-content/uploads/2023/04/cropped-logo.png 1 https://idecocasa.com/wp-admin/post.php
+/style.php 1 -
+/ideas-para-un-jardin-decorado-de-ensueno-consejos-y-trucos-de-expertos-en-jardineria/feed/ 1 https://search.google.com/
+/wp-content/uploads/2023/06/sidekix-media-_IAZoJ6X-1A-unsplash-1-1024x683 1 -
+/view-source: 4 -
+/mailpoet_page-sitemap.xml 2 -
+/wp-content/uploads/2023/06/pexels-curtis-adams-3773569-300x200 1 -
+/wp-content/uploads/2023/04/sofa-1-scaled.jpg 3 https://idecocasa.com/interior/
+/wp-content/uploads/2023/06/pexels-curtis-adams-10486145-1024x683 1 -
+//wp-json/wp/v2/users/ 2 -
+/backup/ 1 -
+/wp-content/litespeed/js/ca555f78c4e8aafafff11bc5dde63253.js 1 -
+/inputs.php 1 idecocasa.com
+/wp-content/uploads/2023/06/pexels-pixabay-534151-1024x683 1 -
+/wp-content/uploads/2023/06/toa-heftiba-2ey7dmVEQv4-unsplash-683x1024 1 -
+/wp-content/uploads/2023/06/minh-pham-7pCFUybP_P8-unsplash-200x300 1 -
+/wp-content/uploads/2023/05/pexels-pixabay-164595-scaled.webp 4 https://idecocasa.com/wp-content/uploads/elementor/css/post-749.css
+/wp-content/uploads/2023/05/gustavo-zambelli-YQ0hCwyIgUU-unsplash-2-683x1024 1 -
+/wp-content/uploads/2023/06/pexels-alex-bargain-1472999-1024x768 1 -
+/wp-content/uploads/2023/06/JABON-ACERO-jpg 1 -
+/destacados-interiores/ 3 -
+/ideas-de-decoracion-para-jardin-renueva-tu-espacio-exterior/ 1 -
+/wp-content/uploads/2023/05/pexels-pixabay-262048-scaled.webp 4 https://idecocasa.com/interior/dormitorio/
+/administrator/ 4 -
+/wp-content/litespeed/js/4514e0065bfb98ae5c803041bdcb283f.js 1 -
+/wp-content/uploads/2023/06/pexels-curtis-adams-7027993-1024x683 1 -
+/wp-content/uploads/2023/05/El-mejor-robot-de-cocina_-%C2%BFcual-es-el-mejor_-%C2%BFcual-compro_-jpg 1 -
+/wp-content/uploads/2023/06/annie-spratt-x-R8jcm2ors-unsplash-707x1024 1 -
+/wp-content/uploads/2023/05/Vacuum-Compress-Bag-Vacuum-Storage-Bag-Save-Space-Saving-Seal-Quilts-Clothes-Holder-Organizer-jpeg 1 -
+/wp-content/uploads/2023/06/stephan-coudassot-wwBf9P66u8c-unsplash-768x1024 1 -
+/wp-content/uploads/2023/05/Frutero-Ikea-Cocina-COECO-Encimera-Compac-681x1024 1 -
+/category/inicio/ 2 -
+/wp-content/uploads/elementor/css/post-540.css 1 -
+/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js 2 -
+/wp-content/uploads/2023/06/no-revisions-_NbwONZam9Q-unsplash-683x1024 1 -
+/wp-content/uploads/2023/05/jason-briscoe-GliaHAJ3_5A-unsplash-1024x614 1 -
+/wp-content/uploads/2023/05/katie-smith-uQs1802D0CQ-unsplash-300x300 1 -
+/wp-content/uploads/2023/06/andrea-davis-Wj6oZNCAzs4-unsplash-300x200 1 -
+/wp-content/uploads/2023/04/pexels-cecilia-o-tommasini-904621-scaled.jpg 7 https://idecocasa.com/wp-content/uploads/elementor/css/post-337.css
+/wp-content/uploads/2023/05/hans-isaacson-3hv53VYAKeI-unsplash-scaled-e1684780771422-746x1024 1 -
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-6447382-1-683x1024 1 -
+/wp-content/uploads/2023/06/pexels-max-rahubovskiy-6447382-1-1025x1536.webp 1 https://idecocasa.com/
+/interiores/dormitorio/armario-esquinero-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar 1 http://idecocasa.com/wp-cron.php
+/10-ideas-de-decoracion-de-interiores-para-transformar-tu-hogar/feed/ 1 https://search.google.com/
+/wp-content/uploads/2023/06/pexels-curtis-adams-7027993-300x200 1 -
+/wp-content/uploads/2023/04/pexels-max-rahubovskiy-7061672-scaled.jpg 7 https://idecocasa.com/exterior/
+/wp-content/uploads/2023/06/kenny-eliason-iAftdIcgpFc-unsplash-1-300x200 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 155
+143.131.234.177 6681 13449 457948686 20230611214207
+92.189.250.61 6160 8994 383852051 20230611225210
+2a12:d280:100:15:: 5946 8774 5466762 20230613125008 20230613122305 /wp-cron.php
+91.126.185.207 287 1206 20268933 20230610114238
+54.36.103.97 94 94 2224 20230605233153
+163.182.174.161 45 45 1072 20230611210444
+2a02:4780:a:2:0:95ef:a122:ba54 32 161 7736133 20230613065827
+178.211.133.15 29 30 1597625 20230611124827
+178.22.124.251 17 55 707390 20230612165633
+46.101.9.216 7 7 182243 20230607060530
+81.31.156.246 5 20 266607 20230610232217
+34.210.200.198 5 40 674572 20230609043919
+52.88.52.64 5 41 715116 20230606214515
+212.227.221.144 5 40 713376 20230604182454
+34.221.208.209 4 39 674659 20230605101028
+52.87.44.246 4 43 690828 20230611202739
+75.119.221.69 4 4 155002 20230602032641
+77.26.255.5 4 37 411489 20230610193419
+35.88.253.98 4 40 722166 20230611202655
+34.217.194.18 4 40 722113 20230610200332
+34.219.189.215 4 39 674541 20230608211956
+35.166.76.146 4 39 674669 20230606221147
+185.116.60.232 3 3 69 20230611194204
+192.178.10.76 3 12 161688 20230601225347
+190.63.114.38 3 47 1029477 20230601220652
+54.68.32.247 1 1 11 20230607205023
+35.89.225.28 1 1 38922 20230607213324
+81.31.156.245 0 855 121181461 
+34.219.252.220 1 1 38891 20230605214649
+35.89.21.157 2 2 0 20230612014213
+18.236.233.27 1 1 38907 20230605073611
+139.59.242.138 1 1 476 20230611202706
+34.219.40.37 1 1 38907 20230605073522
+52.149.146.251 2 3 50079 20230608124019
+208.80.194.42 1 1 176267 20230605034317
+159.223.74.255 1 1 476 20230604160315
+46.101.188.251 1 1 38606 20230611150251
+35.92.168.101 1 1 38922 20230607213224
+34.222.35.4 1 1 38618 20230613012720
+147.182.154.241 1 1 38855 20230609154031
+217.156.214.214 1 1 176323 20230606181557
+170.64.163.177 1 1 38734 20230603153956
+54.212.202.84 1 1 38550 20230611010330
+35.88.115.135 1 1 38618 20230613012730
+185.53.57.89 0 519 66291724 
+34.222.113.154 1 1 0 20230603101448
+93.158.91.203 0 1 58 
+34.218.237.47 1 1 38726 20230602001917
+66.249.83.68 1 1 33209 20230601225908
+54.203.3.76 1 1 38726 20230602001803
+54.191.184.209 1 1 38891 20230605214806
+35.164.26.235 1 1 38907 20230605073446
+173.234.48.41 1 1 38736 20230609233529
+94.75.232.90 0 1043 179435679 
+2.137.148.117 0 1 52750 
+35.90.139.91 1 1 38964 20230606231147
+34.218.227.2 1 1 38596 20230611205654
+34.140.235.247 2 2 77456 20230602070048
+213.184.85.245 0 549 78718200 
+66.249.66.35 1 1 6 20230604204719
+185.53.57.40 0 485 68318502 
+200.12.34.51 0 1 52750 
+136.243.106.228 0 988 139034501 
+208.80.194.41 1 1 175943 20230612064900
+54.191.154.179 1 1 38726 20230602001856
+66.249.93.197 0 2 39722 
+167.88.61.211 0 632 94124154 
+34.222.71.235 1 1 38550 20230611010407
+178.128.81.7 1 1 476 20230604153327
+34.221.219.7 1 1 38922 20230607213347
+137.226.113.44 2 2 77498 20230601050536
+2620:101:2002:11a4::1016 1 1 176323 20230606165540
+2600:c02:1020:4202::ac10:8268 1 1 176349 20230608182206
+2600:1702:2070:f3d0:20ca:9315:1f1f:6290 0 1 52750 
+34.221.34.2 1 1 38715 20230603234911
+3.219.237.5 1 1 32890 20230608121438
+54.245.183.226 1 1 38964 20230606231133
+52.36.151.43 1 1 38550 20230611010510
+54.218.162.161 1 1 38596 20230611211017
+54.88.179.33 1 1 176455 20230603110525
+66.249.83.6 1 1 33209 20230601225853
+38.166.133.194 0 1 52750 
+35.89.199.197 1 1 38715 20230603235016
+66.249.83.7 1 1 33209 20230601230840
+46.38.230.16 0 679 108610438 
+181.121.176.89 0 1 281942 
+192.99.38.117 0 627 93195582 
+66.249.66.15 0 1 62046 
+2a00:8a60:1014:88::44 2 2 77498 20230601052236
+54.184.70.57 1 1 38964 20230606231206
+211.23.143.87 0 409 65234161 
+190.57.89.244 0 1 64704 
+66.249.83.5 2 2 66479 20230603183424
+185.151.125.197 1 1 175943 20230612213739
+52.88.143.195 1 1 38922 20230607213341
+66.249.66.69 0 2 118036 
+80.28.71.156 0 1 52750 
+66.249.83.96 1 1 33209 20230601230624
+63.251.96.111 0 849 131285686 
+66.249.66.34 0 4 159229 
+191.102.130.165 1 1 38726 20230601223826
+69.50.95.216 0 703 101892438 
+34.215.104.163 2 2 0 20230608005257
+54.190.180.68 1 1 38891 20230605214656
+93.158.91.207 1 1 453 20230611172005
+34.220.221.123 1 1 38549 20230610005103
+35.91.150.208 1 1 38922 20230607213312
+35.187.170.24 2 2 77456 20230602070046
+167.172.70.170 1 1 476 20230602153543
+66.249.66.68 1 3 167424 20230604204715
+35.89.196.137 1 1 38726 20230602001907
+49.12.102.29 0 371 60242240 
+213.59.121.226 0 445 79019289 
+66.249.83.70 2 2 66418 20230601230156
+65.21.81.51 2 2 46 20230610114621
+66.249.93.196 0 1 82204 
+3.101.152.43 2 2 77734 20230609020832
+35.89.64.166 1 1 38891 20230605214738
+66.249.83.195 1 1 33209 20230601230420
+35.89.52.72 1 1 38550 20230611010455
+34.219.88.133 1 1 38907 20230605073640
+18.237.151.1 1 1 38549 20230610005052
+192.178.10.74 3 9 174889 20230601225347
+35.91.17.52 1 1 38964 20230606231131
+86.105.14.232 3 17 346233 20230608201625
+162.254.118.29 0 1434 241735055 
+34.102.55.147 3 3 179695 20230607071402
+2001:4ba0:cafe:c13::1 1 1 38749 20230601140916
+66.249.83.196 1 1 33209 20230601225407
+191.96.101.140 0 527 81552901 
+2a03:4000:56:fe7:a43a:6dff:fec9:6762 1 1 23 20230602172307
+34.78.137.88 1 1 38728 20230602070049
+51.12.216.100 3 3 179779 20230602062120
+18.236.145.17 1 1 38618 20230613012643
+146.59.68.239 0 2531 363940122 
+170.64.171.24 1 1 38899 20230606143121
+66.249.83.35 1 1 33209 20230601230409
+34.221.200.245 1 1 38715 20230603235052
+54.237.241.15 1 1 38907 20230605072521
+35.90.121.149 1 1 38549 20230610005051
+34.221.58.9 1 1 38596 20230611211054
+34.221.245.28 1 1 38550 20230611010450
+66.249.66.1 1 4 240628 20230604204719
+34.210.118.132 1 1 38618 20230613012724
+220.151.9.22 1 1 38550 20230610174004
+192.178.10.72 2 10 152819 20230601225349
+35.88.63.103 1 1 38550 20230611010401
+93.158.91.230 1 1 39423 20230611172010
+54.190.180.108 1 1 38891 20230605214930
+34.221.44.17 1 1 38922 20230607213324
+54.190.168.217 1 1 38726 20230602001841
+64.41.200.104 1 1 176349 20230608182606
+34.213.101.133 1 1 38922 20230607213346
+35.92.162.249 1 1 38891 20230605214729
+192.0.87.226 2 2 310406 20230601013029
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20230601 1910 6324 463929228 34
+20230602 259 721 12532265 25
+20230603 2609 9166 701929875 25
+20230604 3758 8522 569728844 31
+20230605 934 2522 225304176 25
+20230606 2732 4930 148629636 24
+20230607 830 2762 232459657 31
+20230608 3113 5433 327471779 25
+20230609 1301 2191 57140973 15
+20230610 852 1535 34044623 31
+20230611 1092 2913 192754506 34
+20230612 53 60 563222 16
+20230613 37 39 615949 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 16
+5mn-15mn 15
+0s-30s 203
+30mn-1h 27
+2mn-5mn 4
+30s-2mn 6
+1h+ 53
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 222
+/wp-admin/admin-ajax.php 10570 185899960 4 45
+/wp-cron.php 4736 0 93 65
+/ 579 31377948 201 176
+/wp-json/aioseo/v1/settings/toggle-card/ 333 5312 0 1
+/wp-json/google-site-kit/v1/modules/analytics/data/report 206 236392 0 1
+/author/eva/ 179 1545527 0 2
+/wp-json/aioseo/v1/post/ 168 4756 0 1
+/wp-admin/edit.php 167 29242609 0 0
+/wp-admin/post.php 140 115477818 0 1
+/wp-json/media-cleaner/v1/extract_references 140 15995 0 0
+/wp-json/aioseo/v1/ping/ 98 1024 0 0
+/wp-json/elementor/v1/template-library/templates 76 4470825 0 0
+/wp-admin/load-scripts.php 69 2080083 0 0
+/wp-admin/ 65 13627667 0 0
+/author/admin/ 63 558061 0 0
+/wp-json/ 62 36960 0 0
+/wp-json/wp/v2/blocks 62 296335 0 0
+/wp-json/wp/v2/block-patterns/categories 62 101332 0 0
+/wp-json/aioseo/v1/analyze_headline/ 62 51374 0 0
+/wp-json/wp/v2/block-patterns/patterns 61 18118675 0 0
+/wp-json/wp/v2/taxonomies 57 278677 0 0
+/wp-json/wp/v2/themes 56 186648 0 0
+/wp-admin/load-styles.php 54 5350905 0 0
+/wp-json/elementor/v1/kit-elements-defaults 53 10335 0 0
+/wp-json/elementor/v1/globals 53 88457 0 0
+/wp-admin/update.php 5 625785 0 0
+/wp-json/media-cleaner/v1/delete 14 420 0 0
+/deleteme.cha3kbsg.php 1 3035 1 0
+/wp-json/wp/v2/posts/1863 2 30794 0 0
+/deleteme.cha53kau.php 1 3035 0 0
+/interiores/cocina/fruteros-de-diseno-encuentra-el-complemento-perfecto-para-tu-cocina/ 11 410172 1 1
+/interiores/cocina/descubre-las-mejores-sillas-de-cocina-y-en-donde-comprarlas/ 3 268098 1 2
+/interior/dormitorio/feed/ 6 1152 0 0
+/deleteme.wpaynqdv.php 1 16672 0 1
+/exterior/jardineria/ 11 1257426 1 0
+/wp-admin/plugins.php 7 1184237 0 0
+/interiores/cocina/cocinando-deliciosas-recetas-tips-trucos-y-consejos-para-convertirte-en-un-experto-en-la-cocina/ 24 230300 1 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 14 244712 0 0
+/interiores/cocina/consejos-y-trucos-para-mejorar-tus-habilidades-en-la-cocina/ 18 0 0 0
+/wp-content/plugins/litespeed-cache/guest.vary.php 15 258 1 2
+/wp-json/reallysimplessl/v1/tests/progressData 1 3676 0 0
+/destacados/feed/ 3 1137 0 0
+/deleteme.wpdtgpya.php 1 16424 0 0
+/exterior/ 11 860308 1 2
+/interiores/guia-completa-de-decoracion-de-interiores-consejos-y-tendencias-actuales/ 3 188388 0 0
+/wp-json/wp/v2/posts/1869 5 61588 0 0
+/exterior/suelos-y-muebles/feed/ 2 792 0 0
+/interiores/dormitorio/dormitorios-de-matrimonio-disenos-modernos-y-elegantes-para-transformar-tu-habitacion/ 2 181927 0 0
+/wp-json/google-site-kit/v1/core/user/data/survey-event 1 2 0 0
+/interiores/dormitorio/armarios-esquineros-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar/ 1 186838 0 0
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.ttf 13 641420 0 0
+/wp-json/wp/v2/posts/1298 2 15397 0 0
+/wp-admin/update-core.php 12 1700302 0 0
+/readme.html 1 3180 0 1
+/wp-json/media-cleaner/v1/reset_db 2 32 0 0
+/wp-content/plugins/really-simple-ssl/testssl/serverhttpson/ssl-test-page.html 1 159 0 0
+/wp-json/google-site-kit/v1/modules/analytics/data/accounts-properties-profiles 2 7212 0 0
+/wp-admin/theme-editor.php 6 988647 0 0
+/interiores/cocina/cocinas-de-lena-la-mejor-opcion-para-una-cocina-tradicional-y-ecologica/ 18 362602 0 0
+/wp-json/reallysimplessl/v1/do_action/store_ssl_labs 23 528 0 0
+/cart.json 1 0 0 0
+/interiores/cocina/cocinas-de-lena-la-mejor-opcion-para-una-cocina-tradicional-y-ecologica/feed/ 1 474 0 0
+/wp-json/reallysimplessl/v1/do_action/hardening_data 2 1118 0 0
+/wp-json/google-site-kit/v1/modules/analytics/data/goals 4 489 0 0
+/sitemap.xml 1 453 1 1
+/interiores/dormitorio/dormitorios-de-matrimonio-disenos-modernos-y-elegantes-para-tu-hogar/ 12 287937 2 2
+/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf 7 9200 0 0
+/category/exteriores/suelos-y-muebles/feed/ 1 525 0 0
+/wp-admin/options-general.php 4 595135 0 0
+/deleteme.chafyk39.php 1 3035 0 0
+/category/exteriores/casa/feed/ 2 1022 0 0
+/wp-json/wp/v2/types 2 4169 0 0
+/wp-json/google-site-kit/v1/modules/search-console/data/settings 1 54 0 0
+//wp-includes/wlwmanifest.xml 2 2090 0 0
+/deleteme.chax6mly.php 1 3035 1 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/create-webdatastream 1 325 0 0
+/wp-json/google-site-kit/v1/modules/pagespeed-insights/data/pagespeed 4 292717 0 0
+/deleteme.wpkou9x1.php 1 16643 0 0
+/wp-json/wp/v2/posts/1861 2 30794 0 0
+/wp-json/media-cleaner/v1/all_ids 3 2367 0 0
+/interiores/dormitorio/armario-esquinero-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar/ 1 186775 0 0
+/wp-json/google-site-kit/v1/modules/adsense/data/accounts 1 189 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 21 1563920 2 2
+/wp-json/google-site-kit/v1/modules/search-console/data/searchanalytics 47 121166 0 0
+/wp-json/google-site-kit/v1/modules/analytics/data/data-available 31 60 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 7 565488 0 0
+/deleteme.wp4ros2l.php 1 16391 0 0
+/deleteme.cha3kkzq.php 1 3035 0 0
+/wp-json/wp/v2/posts/1322 2 15397 0 0
+/search/esquinero/feed/rss2/ 1 40935 0 0
+/wp-json/media-cleaner/v1/update_options 4 1958 0 0
+/interiores/cocina/las-mejores-batidoras-para-tus-recetas-con-nuestra-seleccion-de-alta-calidad/ 1 45653 1 1
+/wp-admin/async-upload.php 52 60587 0 0
+/interiores/cocina/robots-de-cocina-la-revolucion-culinaria-en-tu-hogar/ 2 205795 1 1
+/wp-json/wp/v2/ 36 6302220 0 0
+/deleteme.wpkk0aot.php 1 16391 0 0
+/category/exteriores/jardineria/feed/ 3 149553 0 0
+/wp-json/wp/v2/posts/1995 2 116638 0 0
+/interiores/cocina/disenos-de-cocinas-modernas-ideas-y-consejos-para-tu-hogar/feed/ 2 452 0 0
+/wp-json/google-site-kit/v1/core/user/data/survey-trigger 1 16 0 0
+/wp-json/google-site-kit/v1/core/user/data/survey 2 2135 0 0
+/deleteme.wpwygbsu.php 1 17014 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/property 2 392 0 0
+/interiores/dormitorio/dormitorios-juveniles-ideas-y-tendencias-para-decorar-con-estilo/ 6 87599 1 0
+/wp-json/google-site-kit/v1/modules/adsense/data/settings 2 527 0 0
+/wp-json/wp/v2/posts/2004 3 210735 0 0
+/wp-json/reallysimplessl/v1/do_action/ssltest_run 24 13565 0 0
+/wp-json/wp/v2/posts/1871 2 30794 0 0
+/deleteme.chaz8zga.php 1 3035 0 0
+/search/armario+esquinero/feed/rss2/ 1 41379 0 0
+/wp-json/wp/v2/posts/1870 3 46191 0 0
+/deleteme.chavwzke.php 1 3035 1 0
+/wp-json/wp/v2/posts/1860 3 15397 0 0
+/wp-json/meow-common/v1/all_settings/ 4 320 0 0
+/wp-json/reallysimplessl/v1/do_action/learning_mode_data 3 969 0 0
+/wp-json/reallysimplessl/v1/do_action/otherpluginsdata 1 973 0 0
+/wp-json/media-cleaner/v1/retrieve_medias 35 20420 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/webdatastreams 4 1312 0 0
+/interiores/cocina/cocinas-modernas-pequenas-ideas-y-disenos-para-aprovechar-al-maximo-el-espacio/ 16 0 0 0
+/deleteme.wp88zolj.php 1 16391 0 0
+/wp-json/media-cleaner/v1/stats 19 2319 0 0
+/wp-json/reallysimplessl/v1/do_action/get_modal_status 1 41 0 0
+/interior/dormitorio/ 8 547976 0 0
+/wp-json/media-cleaner/v1/recover 9 270 0 0
+/wp-json/google-site-kit/v1/modules/search-console/data/data-available 30 68 0 0
+/wp-json/reallysimplessl/v1/fields/get 1 36375 0 0
+/wp-json/google-site-kit/v1/core/user/data/survey-timeout 1 18 0 0
+/interiores/dormitorio/habitaciones-juveniles-modernas-disenos-y-decoracion-para-un-ambiente-fresco-y-actual/ 2 0 0 0
+/interiores/ideas-de-decoracion-para-habitaciones-modernas-y-acogedoras/ 6 0 0 0
+/interior/salon/feed/ 1 383 0 0
+/interiores/dormitorio/encuentra-los-mejores-armarios-baratos-en-linea-ahorra-dinero-en-tu-compra/ 18 0 0 0
+/interiores/cocina/cocinas-de-gas-la-opcion-mas-eficiente-y-economica-para-tu-hogar/ 16 0 0 0
+/siempre%20puedes%20visitar%20los%20%3Ca%20href=%22https://es.wordpress.org/support/%22%3Eforos%20de%20soporte%20de%20WordPress%3C/a%3E.%3C/p%3E 3 0 0 0
+/wp-json/wp/v2/posts/1319 3 15397 0 0
+/wp-json/wp/v2/users/me 17 67625 0 0
+/wp-json/google-site-kit/v1/core/site/data/admin-bar-settings 2 32 0 0
+/deleteme.chaacquf.php 1 3035 0 0
+/wp-json/wp/v2/posts/2008 1 0 0 0
+/wp-json/google-site-kit/v1/modules/adsense/data/clients 1 240 0 0
+/interiores/dormitorio/comodas-para-dormitorio-la-mejor-opcion-para-una-habitacion-confortable/ 3 409834 1 1
+/interiores/dormitorio/mesitas-de-noche-encuentra-la-mejor-seleccion-en-muebles-para-tu-habitacion/ 6 0 0 0
+/wp-json/google-site-kit/v1/modules/adsense/data/notifications 2 4 0 0
+/wp-json/envato-elements/v2/fetchPhotosSearchResults 1 556002 0 0
+/interior/ 4 251568 1 1
+/interiores/cocina/encimeras-de-cocina-descubre-los-materiales-y-disenos-mas-populares/feed/ 2 907 0 0
+/wp-json/wp/v2/posts/1868 2 30794 0 0
+/interiores/cocina/disenos-de-cocinas-modernas-ideas-y-consejos-para-tu-hogar/ 17 494100 1 2
+/wp-json/google-site-kit/v1/core/site/data/notifications 3 4 0 0
+/wp-json/media-cleaner/v1/entries 26 30388 0 1
+/wp-json/elementor/v1/site-navigation/recent-posts 53 71101 0 0
+/deleteme.wpebha58.php 1 16424 0 0
+/wp-admin/index.php 5 861745 0 0
+/interiores/cocina/todo-lo-que-debes-saber-sobre-las-mejores-vitroceramicas-del-mercado/ 16 0 0 0
+/wp-admin/plugin-install.php 1 145875 0 0
+/wp-login.php 2 6575 0 0
+/wp-json/google-site-kit/v1/modules/tagmanager/data/settings 2 308 0 0
+/interior/despacho-y-oficina/feed/ 1 395 0 0
+/exterior/suelos-y-muebles/ 3 344383 0 0
+/category/jardineria/ 1 173239 0 0
+/wp-json/media-cleaner/v1/count 13 351 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/settings 7 1778 0 0
+/deleteme.wpfaumdp.php 1 16724 0 0
+/deleteme.wpnpfsl4.php 1 16424 0 0
+/wp-json/media-cleaner/v1/check_targets 30 3044 0 0
+/comments/feed/ 26 7621 0 0
+/wp-json/wp/v2/posts/1989 2 0 0 0
+/deleteme.chalu6w2.php 1 3035 0 0
+/wp-json/google-site-kit/v1/core/user/data/tracking 3 48 0 0
+/exterior/casa/ 7 885124 0 0
+/casa/ 2 339393 0 0
+/interiores/cocina/como-elegir-las-mejores-cocinas-de-gas-guia-completa/feed/ 1 451 0 0
+/wp-json/google-site-kit/v1/core/modules/data/check-access 3 45 0 0
+/interiores/cocina/todo-lo-que-debes-saber-sobre-los-mejores-hornos-guia-completa/ 6 0 0 0
+/suelos-y-muebles/ 1 169713 0 0
+/interior/salon/ 1 172370 0 0
+/interiores/dormitorio/armarios-esquineros-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar/feed/ 1 472 0 0
+/deber%C3%ADas%20contactar%20con%20tu%20alojamiento.%20Si%20a%C3%BAn%20necesitas%20ayuda 1 0 0 0
+/wp-content/plugins/really-simple-ssl/ssl-test-page.php 6 1470 0 0
+/wp-json/media-cleaner/v1/reset_issues 8 504 0 0
+/wp-json/wp/v2/posts/1998 1 76522 0 0
+/deleteme.wpzldcv6.php 1 16391 0 0
+/wp-admin/admin.php 27 3775516 0 0
+/interior/despacho-y-oficina/ 1 172279 0 0
+/deleteme.wpm56m4h.php 1 16424 0 0
+/interior/cocina/ 12 1402538 0 0
+/interiores/dormitorio/mesita-de-noche-blanca-el-complemento-perfecto-para-tu-dormitorio/ 2 0 0 0
+/wp-json/google-site-kit/v1/modules/adsense/data/sites 1 201 0 0
+/interiores/dormitorio/armario-esquinero-la-solucion-perfecta-para-aprovechar-el-espacio-en-tu-hogar/feed/ 1 473 0 0
+/wp-admin/upload.php 24 3734169 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/properties 2 1616 0 0
+/wp-json/wp/v2/posts/1297 1 0 0 0
+/deleteme.wp9ghnhs.php 1 16391 0 0
+/deleteme.wpgxrkhp.php 1 16391 0 0
+/interior/cocina/feed/ 7 760 0 0
+/jardineria/ 3 520287 0 0
+/interiores/cocina/encimeras-de-cocina-disenos-y-materiales-para-tu-hogar/ 24 0 0 0
+/wp-includes/wlwmanifest.xml 4 1904 4 4
+/interiores/cocina/como-elegir-las-mejores-cocinas-de-gas-guia-completa/ 2 204634 1 0
+/interiores/dormitorio/armario-ropero-la-solucion-perfecta-para-organizar-tu-ropa/ 6 0 0 0
+/interiores/cocina/encimeras-de-cocina-descubre-los-materiales-y-disenos-mas-populares/ 4 449942 1 1
+/wp-admin/nav-menus.php 1 156245 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/google-tag-settings 6 582 0 0
+/deleteme.chao1dxb.php 1 3035 0 0
+/nosotros/ 3 230936 0 2
+/wp-json/wp/v2/posts/1997 2 109736 0 0
+/wp-content/plugins/ultimate-addons-for-gutenberg/lib/gutenberg-templates/dist/fonts/ast-block-templates.ttf 12 26304 0 0
+/wp-json/wp/v2/posts/1305 5 233745 0 0
+/deleteme.cha3zqdh.php 1 3035 0 0
+/wp-json/google-site-kit/v1/modules/analytics-4/data/container-lookup 2 1564 0 0
+/wp-json/wp/v2/widget-types 2 14680 0 0
+/deleteme.chaec92z.php 1 3035 0 0
+/wp-json/reallysimplessl/v1/do_action/ssltest_get 1 758 0 0
+/feed/ 25 1223695 0 1
+/interiores/dormitorio/habitaciones-juveniles-disenos-modernos-y-funcionales-para-el-espacio-de-tus-hijos/ 2 88219 0 1
+/deleteme.chaxhtao.php 1 3035 0 0
+/deleteme.chaik85f.php 1 3035 0 0
+/wp-json/wp/v2/users 35 1071 0 0
+/interiores/cocina/descubre-las-mejores-sillas-de-cocina-y-en-donde-comprarlas/feed/ 1 449 0 0
+/exterior/casa/feed/ 5 768 0 0
+//wp-json/oembed/1.0/embed 2 4558 0 2
+/destacados/ 31 2510852 1 0
+/wp-admin/customize.php 3 2304383 0 0
+END_SIDER

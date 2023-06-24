@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: kbgjgazo@com1005.raiolanetworks.es
+Received: from com1005.raiolanetworks.es
+	by com1005.raiolanetworks.es with LMTP
+	id IOhPNOsPO2RsawcAKu+OTA
+	(envelope-from <>)
+	for <kbgjgazo@com1005.raiolanetworks.es>; Sat, 15 Apr 2023 22:58:19 +0200
+Return-path: <>
+Envelope-to: kbgjgazo@com1005.raiolanetworks.es
+Delivery-date: Sat, 15 Apr 2023 22:58:19 +0200
+Received: from relay13.raiolanetworks.com ([217.182.121.196]:57974)
+	by com1005.raiolanetworks.es with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	id 1pnmyU-0023Jd-1H
+	for kbgjgazo@com1005.raiolanetworks.es;
+	Sat, 15 Apr 2023 22:58:19 +0200
+Received: from exim by admin.relay.raiolanetworks.com with local (Exim 4.95)
+	id 1pnmxn-0008Kw-FW
+	for kbgjgazo@com1005.raiolanetworks.es;
+	Sat, 15 Apr 2023 22:57:39 +0200
+X-Failed-Recipients: Zhenyu001wuyin@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@admin.relay.raiolanetworks.com>
+To: kbgjgazo@com1005.raiolanetworks.es
+References: <nJWM36ZDNXOh9ijvCB8SW367sQZI7DH9fRZ2GoRvU@idecocasa.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1681592259-eximdsn-2146955108
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pnmxn-0008Kw-FW@admin.relay.raiolanetworks.com>
+Date: Sat, 15 Apr 2023 22:57:39 +0200
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+--1681592259-eximdsn-2146955108
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  Zhenyu001wuyin@gmail.com
+    host gmail-smtp-in.l.google.com [108.177.15.27]
+    SMTP error from remote mail server after pipelined end of data:
+    550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+    550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+    550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+    550-5.7.26 DKIM checks did not pass and SPF check for [com1005.raiolanetworks.e
+    550-5.7.26 s] did not pass with ip: [178.33.177.124]. The sender should visit
+    550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+    550 5.7.26 instructions on setting up authentication. w9-20020adfee49000000b002f74b41afc9si3242730wro.1072 - gsmtp
+
+--1681592259-eximdsn-2146955108
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; admin.relay.raiolanetworks.com
+
+Action: failed
+Final-Recipient: rfc822;Zhenyu001wuyin@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+ 550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+ 550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+ 550-5.7.26 DKIM checks did not pass and SPF check for [com1005.raiolanetworks.e
+ 550-5.7.26 s] did not pass with ip: [178.33.177.124]. The sender should visit
+ 550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+ 550 5.7.26 instructions on setting up authentication. w9-20020adfee49000000b002f74b41afc9si3242730wro.1072 - gsmtp
+
+--1681592259-eximdsn-2146955108
+Content-type: message/rfc822
+
+Return-path: <kbgjgazo@com1005.raiolanetworks.es>
+Received: from com1005.raiolanetworks.es ([178.211.133.15]:43472)
+	by admin.relay.raiolanetworks.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.95)
+	(envelope-from <kbgjgazo@com1005.raiolanetworks.es>)
+	id 1pnmxn-0008Ko-2y
+	for Zhenyu001wuyin@gmail.com;
+	Sat, 15 Apr 2023 22:57:39 +0200
+Received: from kbgjgazo by com1005.raiolanetworks.es with local (Exim 4.96)
+	(envelope-from <kbgjgazo@com1005.raiolanetworks.es>)
+	id 1pnmxm-0023JO-2X
+	for Zhenyu001wuyin@gmail.com;
+	Sat, 15 Apr 2023 22:57:38 +0200
+To: Zhenyu001wuyin@gmail.com
+Subject: =?UTF-8?Q?[Mi_blog]_Pendientes_de_moderaci=C3=B3n:_=C2=ABHel?=
+ =?UTF-8?Q?lo_world!=C2=BB?=
+X-PHP-Script: idecocasa.com/wp-comments-post.php for 185.239.37.234
+ X-PHP-Originating-Script: 1883:PHPMailer.php
+Date: Sat, 15 Apr 2023 20:57:38 +0000
+From: WordPress <wordpress@idecocasa.com>
+Message-ID: <nJWM36ZDNXOh9ijvCB8SW367sQZI7DH9fRZ2GoRvU@idecocasa.com>
+X-Mailer: PHPMailer 6.7 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - com1005.raiolanetworks.es
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [1883 976] / [47 12]
+X-AntiAbuse: Sender Address Domain - com1005.raiolanetworks.es
+X-Get-Message-Sender-Via: com1005.raiolanetworks.es: authenticated_id: kbgjgazo/from_h
+X-Authenticated-Sender: com1005.raiolanetworks.es: wordpress@idecocasa.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: idecocasa.com:/public_html
+
+Un nuevo comentario en la entrada «Hello world!» está esperando tu aprobación
+http://idecocasa.com/index.php/2023/04/15/hello-world/
+
+Autor: Eva (dirección IP: 185.239.37.234, cli-b9ef25ea.wholesale.adamo.es)
+Correo electrónico: evapm003@gmail.com
+URL: http://idecocasa
+Comentario: 
+Hola mundo
+
+Aprobarlo: http://idecocasa.com/wp-admin/comment.php?action=approve&c=2#wpbody-content
+Enviarlo a la papelera: http://idecocasa.com/wp-admin/comment.php?action=trash&c=2#wpbody-content
+Marcarlo como spam: http://idecocasa.com/wp-admin/comment.php?action=spam&c=2#wpbody-content
+Actualmente hay 1 comentario en espera de aprobación. Por favor, visita el panel de moderación:
+http://idecocasa.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--1681592259-eximdsn-2146955108--

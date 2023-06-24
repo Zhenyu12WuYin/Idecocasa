@@ -1,0 +1,94 @@
+--- 
+files: 
+  certificate: 
+    idecocasa_com_a5bed_e8811_1689365346_de965bd1078a57ad76aa4a53aec5f801: 
+      created: '1681592948'
+      domains: 
+        - "*.idecocasa.com"
+        - idecocasa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “idecocasa.com” 1681592948.0
+      id: idecocasa_com_a5bed_e8811_1689365346_de965bd1078a57ad76aa4a53aec5f801
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: a5bede46559a22f6af9837fe835b765343edc5e5403ee2a2d1792e4817efdce8648eaf4b35d3fad811275a5a544e895722037782e45cccdabbf03bd7fe64d616839289177001448cb46aede912f5ec565cd44d2db75bd51598d1354736a0739559b35e3999975ba0fafa007a8aaa24398cfe7d14e14097ae9360be391be0711369158980a0e73f475ace441a4d28d242a2d45580f4ab7d8d24076de35397efff8b2d24e03aeb5af6041e06c8768b1a8f23b489f4909778dc5173cec00d82918189b1ef4bb1c1c2387a8581efc02c20e47af95371158eb08c053a551c84ae0d99842389c060be51eeaa5daafad54319fb2c723fe30e97b4bbba827dfd9b9e8811
+      modulus_length: 2048
+      not_after: '1689365346'
+      not_before: '1681589347'
+      serial: 0428d9147082ff4a70c8e6e819b6d2b6f38d
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: idecocasa.com
+      validation_type: dv
+    idecocasa_com_e4258_01241_1713127862_a7dabc2a768d968a1b1d16a80c40b728: 
+      created: '1681591862'
+      domains: 
+        - idecocasa.com
+        - mail.idecocasa.com
+        - www.idecocasa.com
+        - cpanel.idecocasa.com
+        - webmail.idecocasa.com
+        - webdisk.idecocasa.com
+        - cpcontacts.idecocasa.com
+        - cpcalendars.idecocasa.com
+        - autodiscover.idecocasa.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “idecocasa.com”
+      id: idecocasa_com_e4258_01241_1713127862_a7dabc2a768d968a1b1d16a80c40b728
+      is_self_signed: 1
+      issuer.commonName: idecocasa.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: e4258573e02667c997e4c5b0f84f5cb3af9000ea1c266bcddac9da2c7dcca5cfd150725609289f9c2c20e29cfc1c0707e72408d7356bae8ad541c18c6b669178daa66eff582b45612248711fad5bd9f318c8f400b78f85efa794ca179d7357d6f4de601552124d114c1d8b7fd76289184670a3f7a37ad5f5b18880df6f6463aa1268e5f5380d50d848232412379ff02cd490e36fea9e30d0060eb53fe12f1eaadf4a337df871185a3a2940c4242a731b690785665cd704b71230884808eeba7f6f88b3eba8e286f7ef6daa36231c0b6df79aec3e27446d236b7bd1ec94673a516aec70261b3136b85aebd5c18078115e9d8144dae2b4e4038cbfdee639f01241
+      modulus_length: 2048
+      not_after: '1713127862'
+      not_before: '1681591862'
+      serial: 0ddb44ad
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: idecocasa.com
+      validation_type: ~
+  key: 
+    a5bed_e8811_341d70aac6a24003972d1435281c4cdd: 
+      created: '1681592948'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “idecocasa.com” 1681592948.0
+      id: a5bed_e8811_341d70aac6a24003972d1435281c4cdd
+      key_algorithm: rsaEncryption
+      modulus: a5bede46559a22f6af9837fe835b765343edc5e5403ee2a2d1792e4817efdce8648eaf4b35d3fad811275a5a544e895722037782e45cccdabbf03bd7fe64d616839289177001448cb46aede912f5ec565cd44d2db75bd51598d1354736a0739559b35e3999975ba0fafa007a8aaa24398cfe7d14e14097ae9360be391be0711369158980a0e73f475ace441a4d28d242a2d45580f4ab7d8d24076de35397efff8b2d24e03aeb5af6041e06c8768b1a8f23b489f4909778dc5173cec00d82918189b1ef4bb1c1c2387a8581efc02c20e47af95371158eb08c053a551c84ae0d99842389c060be51eeaa5daafad54319fb2c723fe30e97b4bbba827dfd9b9e8811
+      modulus_length: 2048
+    e4258_01241_3d8129b2d83e7151ec1bebc0a850f046: 
+      created: '1681591862'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “idecocasa.com”
+      id: e4258_01241_3d8129b2d83e7151ec1bebc0a850f046
+      key_algorithm: rsaEncryption
+      modulus: e4258573e02667c997e4c5b0f84f5cb3af9000ea1c266bcddac9da2c7dcca5cfd150725609289f9c2c20e29cfc1c0707e72408d7356bae8ad541c18c6b669178daa66eff582b45612248711fad5bd9f318c8f400b78f85efa794ca179d7357d6f4de601552124d114c1d8b7fd76289184670a3f7a37ad5f5b18880df6f6463aa1268e5f5380d50d848232412379ff02cd490e36fea9e30d0060eb53fe12f1eaadf4a337df871185a3a2940c4242a731b690785665cd704b71230884808eeba7f6f88b3eba8e286f7ef6daa36231c0b6df79aec3e27446d236b7bd1ec94673a516aec70261b3136b85aebd5c18078115e9d8144dae2b4e4038cbfdee639f01241
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a5bede46559a22f6af9837fe835b765343edc5e5403ee2a2d1792e4817efdce8648eaf4b35d3fad811275a5a544e895722037782e45cccdabbf03bd7fe64d616839289177001448cb46aede912f5ec565cd44d2db75bd51598d1354736a0739559b35e3999975ba0fafa007a8aaa24398cfe7d14e14097ae9360be391be0711369158980a0e73f475ace441a4d28d242a2d45580f4ab7d8d24076de35397efff8b2d24e03aeb5af6041e06c8768b1a8f23b489f4909778dc5173cec00d82918189b1ef4bb1c1c2387a8581efc02c20e47af95371158eb08c053a551c84ae0d99842389c060be51eeaa5daafad54319fb2c723fe30e97b4bbba827dfd9b9e8811: 
+        idecocasa_com_a5bed_e8811_1689365346_de965bd1078a57ad76aa4a53aec5f801: ~
+      e4258573e02667c997e4c5b0f84f5cb3af9000ea1c266bcddac9da2c7dcca5cfd150725609289f9c2c20e29cfc1c0707e72408d7356bae8ad541c18c6b669178daa66eff582b45612248711fad5bd9f318c8f400b78f85efa794ca179d7357d6f4de601552124d114c1d8b7fd76289184670a3f7a37ad5f5b18880df6f6463aa1268e5f5380d50d848232412379ff02cd490e36fea9e30d0060eb53fe12f1eaadf4a337df871185a3a2940c4242a731b690785665cd704b71230884808eeba7f6f88b3eba8e286f7ef6daa36231c0b6df79aec3e27446d236b7bd1ec94673a516aec70261b3136b85aebd5c18078115e9d8144dae2b4e4038cbfdee639f01241: 
+        idecocasa_com_e4258_01241_1713127862_a7dabc2a768d968a1b1d16a80c40b728: ~
+    subject.commonName: 
+      idecocasa.com: 
+        idecocasa_com_a5bed_e8811_1689365346_de965bd1078a57ad76aa4a53aec5f801: ~
+        idecocasa_com_e4258_01241_1713127862_a7dabc2a768d968a1b1d16a80c40b728: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “idecocasa.com”: idecocasa_com_e4258_01241_1713127862_a7dabc2a768d968a1b1d16a80c40b728
+      Cert for “idecocasa.com” 1681592948.0: idecocasa_com_a5bed_e8811_1689365346_de965bd1078a57ad76aa4a53aec5f801
+  key: 
+    friendly_name: 
+      Key for “idecocasa.com”: e4258_01241_3d8129b2d83e7151ec1bebc0a850f046
+      Key for “idecocasa.com” 1681592948.0: a5bed_e8811_341d70aac6a24003972d1435281c4cdd
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      a5bede46559a22f6af9837fe835b765343edc5e5403ee2a2d1792e4817efdce8648eaf4b35d3fad811275a5a544e895722037782e45cccdabbf03bd7fe64d616839289177001448cb46aede912f5ec565cd44d2db75bd51598d1354736a0739559b35e3999975ba0fafa007a8aaa24398cfe7d14e14097ae9360be391be0711369158980a0e73f475ace441a4d28d242a2d45580f4ab7d8d24076de35397efff8b2d24e03aeb5af6041e06c8768b1a8f23b489f4909778dc5173cec00d82918189b1ef4bb1c1c2387a8581efc02c20e47af95371158eb08c053a551c84ae0d99842389c060be51eeaa5daafad54319fb2c723fe30e97b4bbba827dfd9b9e8811: a5bed_e8811_341d70aac6a24003972d1435281c4cdd
+      e4258573e02667c997e4c5b0f84f5cb3af9000ea1c266bcddac9da2c7dcca5cfd150725609289f9c2c20e29cfc1c0707e72408d7356bae8ad541c18c6b669178daa66eff582b45612248711fad5bd9f318c8f400b78f85efa794ca179d7357d6f4de601552124d114c1d8b7fd76289184670a3f7a37ad5f5b18880df6f6463aa1268e5f5380d50d848232412379ff02cd490e36fea9e30d0060eb53fe12f1eaadf4a337df871185a3a2940c4242a731b690785665cd704b71230884808eeba7f6f88b3eba8e286f7ef6daa36231c0b6df79aec3e27446d236b7bd1ec94673a516aec70261b3136b85aebd5c18078115e9d8144dae2b4e4038cbfdee639f01241: e4258_01241_3d8129b2d83e7151ec1bebc0a850f046

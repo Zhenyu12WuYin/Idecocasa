@@ -1,0 +1,16 @@
+.wp-menu-image img {
+    width: 22px;
+}
+.buttonSelect-button-selected {
+    background-color: #00657c47 !important;
+    border-color: #00657C !important;
+    color: #00657C !important;
+    font-weight: 700 !important;
+    border-width: 2px !important;
+}
+.buttonSelect-button {
+    color: grey !important;
+    border-color: grey !important;
+    border-width: 2px !important;
+    background-color: #fff !important;
+}

@@ -1,0 +1,50 @@
+{{!
+Copyright (c) 2018 superadmin (email : superadmin@superadmin.es)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+}}
+
+<div class="argpd-informar">
+	<p class="argpd-informar-title">{{#__}}Información básica sobre protección de datos{{/__}} <span class="argpd-mas">{{#__}}Ver más{{/__}}</span></p>
+	<ul>
+		<li>
+			<b>{{#__}}Responsable:{{/__}}</b>&nbsp;{{titular}}{{^titular}}{{#__}}El titular del sitio{{/__}}{{/titular}}.
+		</li>
+		<li><b>{{#__}}Finalidad:{{/__}}</b>&nbsp;
+			{{#purpose}}{{ purpose }}{{/purpose}}
+			{{^purpose}}
+				{{#option-forms}} {{#__}}Responder las consultas.{{/__}} {{/option-forms}}
+				{{#es-tienda}} {{#__}}Facilitar al interesado ofertas de productos y servicios de su interés.{{/__}} {{/es-tienda}}
+			{{/purpose}}
+		</li>
+		<li><b>{{#__}}Legitimación:{{/__}}</b>&nbsp;
+			{{#legitimacy}}{{legitimacy}}{{/legitimacy}}
+			{{^legitimacy}}
+				{{#__}}Por consentimiento del interesado.{{/__}}</li>
+			{{/legitimacy}}
+
+		<li><b>{{#__}}Destinatarios y encargados de tratamiento:{{/__}}</b>&nbsp;
+			{{#communication}}
+				{{ communication }}
+			{{/communication}}
+
+			{{^communication}}
+				{{#__}}No se ceden o comunican datos a terceros para prestar este servicio.{{/__}}
+				{{#hosting-info}}
+					{{#__}}El Titular ha contratado los servicios de alojamiento web a {{hosting-info}} que actúa como encargado de tratamiento.{{/__}}
+				{{/hosting-info}}
+			{{/communication}}			
+		</li>
+		<li>
+			<b>{{#__}}Derechos:{{/__}}</b>&nbsp;{{#__}}Acceder, rectificar y suprimir los datos.{{/__}}
+		</li>
+		{{#privacidadURL}}
+		<li>
+			<b>{{#__}}Información Adicional:{{/__}}</b>&nbsp;{{#__}}Puede consultar la información detallada en la{{/__}} <a target="_noblank" href="{{ privacidadURL }}">{{#__}}Política de Privacidad{{/__}}</a>.</li>
+		{{/privacidadURL}}
+	</ul>
+</div>
